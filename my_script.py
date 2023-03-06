@@ -1,6 +1,7 @@
 import numpy as np 
 import matplotlib.pyplot as plt 
 import scipy as sci
+import panda as pd
 import os, locale, csv, this
 import dv_loadingBar
 
